@@ -520,7 +520,7 @@ address {
 
 @media screen and (max-width: 767px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Mobile/hero1x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/mobile/hero1x-min.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center,center;
@@ -529,7 +529,7 @@ address {
 @media screen and  (-webkit-min-device-pixel-ratio: 2) and (max-width:767px),screen and (min-resolution:192dpi) and (max-width:767px),
 screen and (min-resolution: 2dppx) and (max-width:767px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Mobile/hero2x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/mobile/hero2x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -538,7 +538,7 @@ screen and (min-resolution: 2dppx) and (max-width:767px) {
 @media screen and  (-webkit-min-device-pixel-ratio: 3) and (max-width:767px),screen and (min-resolution: 300dpi) and (max-width:767px),
 screen and (min-resolution: 3dppx) and (max-width:767px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Mobile/hero3x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/mobile/hero3x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -547,7 +547,7 @@ screen and (min-resolution: 3dppx) and (max-width:767px) {
 
 @media screen and (min-width: 768px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Tablet/hero1x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/tablet/hero1x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -556,7 +556,7 @@ screen and (min-resolution: 3dppx) and (max-width:767px) {
 @media screen and  (-webkit-min-device-pixel-ratio: 2) and (min-width:768px),screen and (min-resolution:192dpi) and (min-width:768px),
 screen and (min-resolution: 2dppx) and (min-width:768px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Tablet/hero2x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/tablet/hero2x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -565,7 +565,7 @@ screen and (min-resolution: 2dppx) and (min-width:768px) {
 @media screen and  (-webkit-min-device-pixel-ratio: 3) and (min-width:768px),screen and (min-resolution: 300dpi) and (min-width:768px),
 screen and (min-resolution: 3dppx) and (min-width:768px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Tablet/hero3x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/tablet/hero3x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -575,7 +575,7 @@ screen and (min-resolution: 3dppx) and (min-width:768px) {
 
 @media screen and (min-width: 1024px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Desktop/hero1x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/desktop/hero1x-min.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -584,7 +584,7 @@ screen and (min-resolution: 3dppx) and (min-width:768px) {
 @media screen and  (-webkit-min-device-pixel-ratio: 2) and (min-width:1024px),screen and (min-resolution:192dpi) and (min-width:1024px),
 screen and (min-resolution: 2dppx) and (min-width:1024px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Desktop/hero2x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/desktop/hero2x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
@@ -593,7 +593,7 @@ screen and (min-resolution: 2dppx) and (min-width:1024px) {
 @media screen and  (-webkit-min-device-pixel-ratio: 3) and (min-width:1024px),screen and (min-resolution: 300dpi) and (min-width:1024px),
 screen and (min-resolution: 3dppx) and (min-width:1024px) {
   .hero-section {
-    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/Desktop/hero3x-min.jpg);
+    background: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/desktop/hero3x-min.jpg);
     background-repeat: no-repeat;
     background-position: center,center;
     background-size: cover;
