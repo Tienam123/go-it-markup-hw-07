@@ -256,6 +256,7 @@ button {
   animation-fill-mode: forwards;
   animation-direction: alternate;
   transform: translateY(0);
+  z-index: 999;
 
 
 
